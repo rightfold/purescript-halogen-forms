@@ -3,6 +3,8 @@
   "dependencies": {
     "purescript-halogen": "^2.0.1",
     "purescript-validation": "^3.0.0",
-    "purescript-prelude": "^3.0.0"
+    "purescript-prelude": "^3.0.0",
+    "purescript-tuples": "^4.0.0",
+    "purescript-profunctor": "^3.0.0"
   }
 }
